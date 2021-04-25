@@ -1,0 +1,18 @@
+{
+  "groups": [
+    {
+      "name": "com.bnrmyy",
+      "type": "com.bnrmyy.chapter14.DidiProperties",
+      "sourceType": "com.bnrmyy.chapter14.DidiProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "com.bnrmyy.from",
+      "type": "java.lang.String",
+      "description": "这是一个测试配置",
+      "sourceType": "com.bnrmyy.chapter14.DidiProperties"
+    }
+  ],
+  "hints": []
+}
